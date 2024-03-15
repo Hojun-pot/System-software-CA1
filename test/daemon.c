@@ -7,9 +7,9 @@
 #include <time.h>
 
 // Define file paths
-#define SHARED_DIR_PATH "/path/to/shared_directory"
-#define DASHBOARD_DIR_PATH "/path/to/dashboard_directory"
-#define LOG_FILE_PATH "/path/to/log_file.txt"
+#define SHARED_DIR_PATH "./shared_directory"
+#define DASHBOARD_DIR_PATH "/dashboard_directory"
+#define LOG_FILE_PATH "/log_file.txt"
 
 // Function to manage shared directory
 void manage_shared_directory() {

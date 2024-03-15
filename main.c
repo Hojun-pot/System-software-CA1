@@ -12,7 +12,7 @@ void setup_ipc();
 void log_errors();
 
 int main() {
-    printf("프로그램을 시작합니다.\n");
+    printf("Running the program..\n");
 
     // 데몬 프로세스 시작
     start_daemon();
